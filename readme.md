@@ -1,8 +1,8 @@
 - What is the JSON👇🏻
 
-# JSON - Javascript Object Notation
+# JzIDGI- Javascript Object Notation
 
-## Data-interchange format.Used for exchanging data between a server and a web application JSON Files {key:value} OR [value1,value2,value3]
+###  Data-interchange format.Used for exchanging data between a server and a web application JSON Files {key:value} OR [value1,value2,value3]
 
 
 1. JSON stands for JavaScript Object Notation - 
