@@ -1,6 +1,6 @@
 - What is the JSON👇🏻
 
-# JzIDGI- Javascript Object Notation
+# JSON- Javascript Object Notation
 
 ###  Data-interchange format.Used for exchanging data between a server and a web application JSON Files {key:value} OR [value1,value2,value3]
 
